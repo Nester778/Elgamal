@@ -1,0 +1,5 @@
+﻿  Elgamal.cpp
+  LR_7.cpp
+C:\Users\user\source\repos\LR_7\LR_7\LR_7.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  LR_7.vcxproj -> C:\Users\user\source\repos\LR_7\x64\Debug\LR_7.exe
